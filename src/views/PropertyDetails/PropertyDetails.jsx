@@ -3,6 +3,7 @@ import './PropertyDetails.css'
 import { useParams } from 'react-router';
 import DummyImg from "./house.png";
 import PROPERTIES from "./../../data";
+import RatingView from '../../components/RatingView/RatingView';
 function PropertyDetails() {
 
   const { id } = useParams();
@@ -21,7 +22,6 @@ function PropertyDetails() {
       <p>Type: {propertyDetails.propertyType}</p>
       <p>Size: {propertyDetails.size}</p>
       <p>Rent: ₹{propertyDetails.rent} / month</p>
-      <p>Rating: {propertyDetails.rating}</p>
       <p>Description: {propertyDetails.description}</p>
       <p>Location: {propertyDetails.area}, {propertyDetails.city}</p>
       <p>Amenities: {amenities.join(', ')}</p>
@@ -40,10 +40,10 @@ function PropertyDetails() {
             {review.reviewerName.substring(0, 1).toUpperCase()}
           </div>
           <div>
-           <p>{review.comment} - {review.reviewerName}</p>
-           <p>{review.rating}</p>
+            <p><RatingView rating={review.rating} /></p>
+            <p>{review.comment} - {review.reviewerName}</p>
           </div>
-      </div>
+        </div>
     })
   }</div>
   </div>

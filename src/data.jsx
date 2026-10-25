@@ -14,13 +14,12 @@ const PROPERTIES = [
       "security"
     ],
     "photos": [],
-    "rating": 3.6,
     "reviews": 209,
     "reviewDetails": [
       {
         "reviewerName": "Aarav Mehta",
         "comment": "The flat is comfortable, well maintained, and conveniently located in Jubilee Hills.",
-        "rating": 4
+        "rating": 4.5
       },
       {
         "reviewerName": "Ananya Rao",
@@ -35,7 +34,7 @@ const PROPERTIES = [
       {
         "reviewerName": "Meera Nair",
         "comment": "The 2BHK layout is practical, and the neighborhood is convenient.",
-        "rating": 3.5
+        "rating": 3.4
       },
       {
         "reviewerName": "Kabir Shah",
@@ -79,7 +78,6 @@ const PROPERTIES = [
       "parking"
     ],
     "photos": [],
-    "rating": 4.8,
     "reviews": 161,
     "owner": {
       "name": "Ritu Sharma",
@@ -146,7 +144,6 @@ const PROPERTIES = [
       "parking"
     ],
     "photos": [],
-    "rating": 5,
     "reviews": 203,
     "owner": {
       "name": "Ritu Sharma",
@@ -214,7 +211,6 @@ const PROPERTIES = [
       "play area"
     ],
     "photos": [],
-    "rating": 4.8,
     "reviews": 132,
     "owner": {
       "name": "Priya Singh",
@@ -280,7 +276,6 @@ const PROPERTIES = [
       "garden"
     ],
     "photos": [],
-    "rating": 4,
     "reviews": 176,
     "owner": {
       "name": "Priya Singh",
@@ -349,7 +344,6 @@ const PROPERTIES = [
       "parking"
     ],
     "photos": [],
-    "rating": 4,
     "reviews": 167,
     "owner": {
       "name": "Manish Gupta",
@@ -414,7 +408,6 @@ const PROPERTIES = [
       "clubhouse"
     ],
     "photos": [],
-    "rating": 4.9,
     "reviews": 200,
     "owner": {
       "name": "Deepa Nair",
@@ -479,7 +472,6 @@ const PROPERTIES = [
       "wifi"
     ],
     "photos": [],
-    "rating": 4.2,
     "reviews": 115,
     "owner": {
       "name": "Neha Verma",
@@ -545,7 +537,6 @@ const PROPERTIES = [
       "power backup"
     ],
     "photos": [],
-    "rating": 3.6,
     "reviews": 85,
     "owner": {
       "name": "Ritu Sharma",
@@ -611,7 +602,6 @@ const PROPERTIES = [
       "parking"
     ],
     "photos": [],
-    "rating": 4,
     "reviews": 181,
     "owner": {
       "name": "Deepa Nair",
@@ -677,7 +667,6 @@ const PROPERTIES = [
       "gym"
     ],
     "photos": [],
-    "rating": 4.8,
     "reviews": 30,
     "owner": {
       "name": "Sanjay Mehta",
@@ -745,7 +734,6 @@ const PROPERTIES = [
       "security"
     ],
     "photos": [],
-    "rating": 3.8,
     "reviews": 190,
     "owner": {
       "name": "Kavita Joshi",
@@ -814,7 +802,6 @@ const PROPERTIES = [
       "power backup"
     ],
     "photos": [],
-    "rating": 4.9,
     "reviews": 126,
     "owner": {
       "name": "Kavita Joshi",
@@ -882,7 +869,6 @@ const PROPERTIES = [
       "play area"
     ],
     "photos": [],
-    "rating": 4,
     "reviews": 93,
     "owner": {
       "name": "Neha Verma",
@@ -948,7 +934,6 @@ const PROPERTIES = [
       "wifi"
     ],
     "photos": [],
-    "rating": 4.3,
     "reviews": 27,
     "owner": {
       "name": "Vikram Reddy",
@@ -1013,7 +998,6 @@ const PROPERTIES = [
       "garden"
     ],
     "photos": [],
-    "rating": 4.2,
     "reviews": 203,
     "owner": {
       "name": "Kavita Joshi",
@@ -1078,7 +1062,6 @@ const PROPERTIES = [
       "play area"
     ],
     "photos": [],
-    "rating": 4.7,
     "reviews": 197,
     "owner": {
       "name": "Deepa Nair",
@@ -1143,7 +1126,6 @@ const PROPERTIES = [
       "power backup"
     ],
     "photos": [],
-    "rating": 3.9,
     "reviews": 78,
     "owner": {
       "name": "Rajesh Patel",
@@ -1210,7 +1192,6 @@ const PROPERTIES = [
       "play area"
     ],
     "photos": [],
-    "rating": 5,
     "reviews": 101,
     "owner": {
       "name": "Ritu Sharma",
@@ -1279,7 +1260,6 @@ const PROPERTIES = [
       "swimming pool"
     ],
     "photos": [],
-    "rating": 4.3,
     "reviews": 77,
     "owner": {
       "name": "Dinesh Khanna",
@@ -1346,7 +1326,6 @@ const PROPERTIES = [
       "security"
     ],
     "photos": [],
-    "rating": 4.2,
     "reviews": 195,
     "owner": {
       "name": "Deepa Nair",
@@ -1415,7 +1394,6 @@ const PROPERTIES = [
       "parking"
     ],
     "photos": [],
-    "rating": 4.5,
     "reviews": 15,
     "owner": {
       "name": "Priya Singh",
@@ -1483,7 +1461,6 @@ const PROPERTIES = [
       "power backup"
     ],
     "photos": [],
-    "rating": 4.2,
     "reviews": 199,
     "owner": {
       "name": "Sanjay Mehta",
@@ -1552,7 +1529,6 @@ const PROPERTIES = [
       "parking"
     ],
     "photos": [],
-    "rating": 3.9,
     "reviews": 216,
     "owner": {
       "name": "Rajesh Patel",
@@ -1618,7 +1594,6 @@ const PROPERTIES = [
       "power backup"
     ],
     "photos": [],
-    "rating": 4.7,
     "reviews": 188,
     "owner": {
       "name": "Sanjay Mehta",
@@ -1684,7 +1659,6 @@ const PROPERTIES = [
       "security"
     ],
     "photos": [],
-    "rating": 4.1,
     "reviews": 202,
     "owner": {
       "name": "Ritu Sharma",
@@ -1750,7 +1724,6 @@ const PROPERTIES = [
       "parking"
     ],
     "photos": [],
-    "rating": 4.6,
     "reviews": 82,
     "owner": {
       "name": "Sneha Kulkarni",
@@ -1817,7 +1790,6 @@ const PROPERTIES = [
       "play area"
     ],
     "photos": [],
-    "rating": 4,
     "reviews": 25,
     "owner": {
       "name": "Ritu Sharma",
@@ -1886,7 +1858,6 @@ const PROPERTIES = [
       "lift"
     ],
     "photos": [],
-    "rating": 4.9,
     "reviews": 134,
     "owner": {
       "name": "Amit Sharma",
@@ -1952,7 +1923,6 @@ const PROPERTIES = [
       "lift"
     ],
     "photos": [],
-    "rating": 4.4,
     "reviews": 118,
     "owner": {
       "name": "Sneha Kulkarni",
@@ -2021,7 +1991,6 @@ const PROPERTIES = [
       "security"
     ],
     "photos": [],
-    "rating": 3.9,
     "reviews": 181,
     "owner": {
       "name": "Sneha Kulkarni",
@@ -2089,7 +2058,6 @@ const PROPERTIES = [
       "lift"
     ],
     "photos": [],
-    "rating": 4,
     "reviews": 128,
     "owner": {
       "name": "Neha Verma",
@@ -2155,7 +2123,6 @@ const PROPERTIES = [
       "clubhouse"
     ],
     "photos": [],
-    "rating": 3.8,
     "reviews": 90,
     "owner": {
       "name": "Priya Singh",
@@ -2223,7 +2190,6 @@ const PROPERTIES = [
       "swimming pool"
     ],
     "photos": [],
-    "rating": 4.8,
     "reviews": 200,
     "owner": {
       "name": "Dinesh Khanna",
@@ -2292,7 +2258,6 @@ const PROPERTIES = [
       "gym"
     ],
     "photos": [],
-    "rating": 4.2,
     "reviews": 83,
     "owner": {
       "name": "Ritu Sharma",
@@ -2359,7 +2324,6 @@ const PROPERTIES = [
       "gym"
     ],
     "photos": [],
-    "rating": 4,
     "reviews": 114,
     "owner": {
       "name": "Manish Gupta",
@@ -2428,7 +2392,6 @@ const PROPERTIES = [
       "lift"
     ],
     "photos": [],
-    "rating": 4.5,
     "reviews": 139,
     "owner": {
       "name": "Ritu Sharma",
@@ -2496,7 +2459,6 @@ const PROPERTIES = [
       "clubhouse"
     ],
     "photos": [],
-    "rating": 3.6,
     "reviews": 116,
     "owner": {
       "name": "Neha Verma",
@@ -2563,7 +2525,6 @@ const PROPERTIES = [
       "security"
     ],
     "photos": [],
-    "rating": 3.9,
     "reviews": 153,
     "owner": {
       "name": "Sanjay Mehta",
@@ -2630,7 +2591,6 @@ const PROPERTIES = [
       "clubhouse"
     ],
     "photos": [],
-    "rating": 4.6,
     "reviews": 162,
     "owner": {
       "name": "Amit Sharma",
@@ -2699,7 +2659,6 @@ const PROPERTIES = [
       "wifi"
     ],
     "photos": [],
-    "rating": 3.9,
     "reviews": 210,
     "owner": {
       "name": "Dinesh Khanna",
@@ -2765,7 +2724,6 @@ const PROPERTIES = [
       "parking"
     ],
     "photos": [],
-    "rating": 4.1,
     "reviews": 37,
     "owner": {
       "name": "Ritu Sharma",
@@ -2831,7 +2789,6 @@ const PROPERTIES = [
       "garden"
     ],
     "photos": [],
-    "rating": 4.6,
     "reviews": 178,
     "owner": {
       "name": "Vikram Reddy",
@@ -2900,7 +2857,6 @@ const PROPERTIES = [
       "parking"
     ],
     "photos": [],
-    "rating": 3.7,
     "reviews": 37,
     "owner": {
       "name": "Sneha Kulkarni",
@@ -2965,7 +2921,6 @@ const PROPERTIES = [
       "play area"
     ],
     "photos": [],
-    "rating": 3.8,
     "reviews": 147,
     "owner": {
       "name": "Vikram Reddy",
@@ -3034,7 +2989,6 @@ const PROPERTIES = [
       "wifi"
     ],
     "photos": [],
-    "rating": 4.5,
     "reviews": 217,
     "owner": {
       "name": "Sanjay Mehta",
@@ -3101,7 +3055,6 @@ const PROPERTIES = [
       "clubhouse"
     ],
     "photos": [],
-    "rating": 5,
     "reviews": 135,
     "owner": {
       "name": "Neha Verma",
@@ -3166,7 +3119,6 @@ const PROPERTIES = [
       "garden"
     ],
     "photos": [],
-    "rating": 4.8,
     "reviews": 211,
     "owner": {
       "name": "Amit Sharma",
@@ -3232,7 +3184,6 @@ const PROPERTIES = [
       "parking"
     ],
     "photos": [],
-    "rating": 4.9,
     "reviews": 177,
     "owner": {
       "name": "Deepa Nair",
@@ -3299,7 +3250,6 @@ const PROPERTIES = [
       "lift"
     ],
     "photos": [],
-    "rating": 4.4,
     "reviews": 105,
     "owner": {
       "name": "Rajesh Patel",
@@ -3364,7 +3314,6 @@ const PROPERTIES = [
       "lift"
     ],
     "photos": [],
-    "rating": 5,
     "reviews": 185,
     "owner": {
       "name": "Rajesh Patel",
@@ -3429,7 +3378,6 @@ const PROPERTIES = [
       "play area"
     ],
     "photos": [],
-    "rating": 4.5,
     "reviews": 161,
     "owner": {
       "name": "Deepa Nair",
@@ -3498,7 +3446,6 @@ const PROPERTIES = [
       "clubhouse"
     ],
     "photos": [],
-    "rating": 3.7,
     "reviews": 21,
     "owner": {
       "name": "Priya Singh",
@@ -3565,7 +3512,6 @@ const PROPERTIES = [
       "gym"
     ],
     "photos": [],
-    "rating": 4.8,
     "reviews": 169,
     "owner": {
       "name": "Deepa Nair",
@@ -3630,7 +3576,6 @@ const PROPERTIES = [
       "wifi"
     ],
     "photos": [],
-    "rating": 3.7,
     "reviews": 82,
     "owner": {
       "name": "Deepa Nair",
@@ -3695,7 +3640,6 @@ const PROPERTIES = [
       "play area"
     ],
     "photos": [],
-    "rating": 4.7,
     "reviews": 64,
     "owner": {
       "name": "Sneha Kulkarni",
@@ -3764,7 +3708,6 @@ const PROPERTIES = [
       "security"
     ],
     "photos": [],
-    "rating": 4.5,
     "reviews": 18,
     "owner": {
       "name": "Rajesh Patel",
@@ -3829,7 +3772,6 @@ const PROPERTIES = [
       "power backup"
     ],
     "photos": [],
-    "rating": 4.6,
     "reviews": 133,
     "owner": {
       "name": "Ritu Sharma",
@@ -3894,7 +3836,6 @@ const PROPERTIES = [
       "garden"
     ],
     "photos": [],
-    "rating": 4.9,
     "reviews": 27,
     "owner": {
       "name": "Sanjay Mehta",
@@ -3961,7 +3902,6 @@ const PROPERTIES = [
       "security"
     ],
     "photos": [],
-    "rating": 4.5,
     "reviews": 152,
     "owner": {
       "name": "Neha Verma",
@@ -4029,7 +3969,6 @@ const PROPERTIES = [
       "power backup"
     ],
     "photos": [],
-    "rating": 4.1,
     "reviews": 128,
     "owner": {
       "name": "Sneha Kulkarni",
@@ -4096,7 +4035,6 @@ const PROPERTIES = [
       "swimming pool"
     ],
     "photos": [],
-    "rating": 4.2,
     "reviews": 202,
     "owner": {
       "name": "Priya Singh",
@@ -4161,7 +4099,6 @@ const PROPERTIES = [
       "play area"
     ],
     "photos": [],
-    "rating": 4.2,
     "reviews": 196,
     "owner": {
       "name": "Deepa Nair",
@@ -4227,7 +4164,6 @@ const PROPERTIES = [
       "lift"
     ],
     "photos": [],
-    "rating": 4.1,
     "reviews": 207,
     "owner": {
       "name": "Vikram Reddy",
@@ -4296,7 +4232,6 @@ const PROPERTIES = [
       "play area"
     ],
     "photos": [],
-    "rating": 3.6,
     "reviews": 48,
     "owner": {
       "name": "Vikram Reddy",
@@ -4365,7 +4300,6 @@ const PROPERTIES = [
       "lift"
     ],
     "photos": [],
-    "rating": 4.6,
     "reviews": 210,
     "owner": {
       "name": "Vikram Reddy",
@@ -4430,7 +4364,6 @@ const PROPERTIES = [
       "security"
     ],
     "photos": [],
-    "rating": 4.3,
     "reviews": 125,
     "owner": {
       "name": "Deepa Nair",
@@ -4499,7 +4432,6 @@ const PROPERTIES = [
       "gym"
     ],
     "photos": [],
-    "rating": 3.6,
     "reviews": 89,
     "owner": {
       "name": "Dinesh Khanna",
@@ -4567,7 +4499,6 @@ const PROPERTIES = [
       "play area"
     ],
     "photos": [],
-    "rating": 4.4,
     "reviews": 183,
     "owner": {
       "name": "Sneha Kulkarni",
@@ -4636,7 +4567,6 @@ const PROPERTIES = [
       "gym"
     ],
     "photos": [],
-    "rating": 3.8,
     "reviews": 170,
     "owner": {
       "name": "Amit Sharma",
@@ -4705,7 +4635,6 @@ const PROPERTIES = [
       "clubhouse"
     ],
     "photos": [],
-    "rating": 3.8,
     "reviews": 142,
     "owner": {
       "name": "Vikram Reddy",
@@ -4771,7 +4700,6 @@ const PROPERTIES = [
       "parking"
     ],
     "photos": [],
-    "rating": 3.8,
     "reviews": 51,
     "owner": {
       "name": "Neha Verma",
@@ -4840,7 +4768,6 @@ const PROPERTIES = [
       "swimming pool"
     ],
     "photos": [],
-    "rating": 4.5,
     "reviews": 215,
     "owner": {
       "name": "Sanjay Mehta",
@@ -4905,7 +4832,6 @@ const PROPERTIES = [
       "play area"
     ],
     "photos": [],
-    "rating": 4.5,
     "reviews": 35,
     "owner": {
       "name": "Neha Verma",
@@ -4970,7 +4896,6 @@ const PROPERTIES = [
       "gym"
     ],
     "photos": [],
-    "rating": 4.3,
     "reviews": 50,
     "owner": {
       "name": "Vikram Reddy",
@@ -5035,7 +4960,6 @@ const PROPERTIES = [
       "security"
     ],
     "photos": [],
-    "rating": 4.3,
     "reviews": 52,
     "owner": {
       "name": "Sanjay Mehta",
@@ -5102,7 +5026,6 @@ const PROPERTIES = [
       "garden"
     ],
     "photos": [],
-    "rating": 4,
     "reviews": 197,
     "owner": {
       "name": "Deepa Nair",
@@ -5169,7 +5092,6 @@ const PROPERTIES = [
       "wifi"
     ],
     "photos": [],
-    "rating": 4.5,
     "reviews": 96,
     "owner": {
       "name": "Ritu Sharma",
@@ -5235,7 +5157,6 @@ const PROPERTIES = [
       "security"
     ],
     "photos": [],
-    "rating": 5,
     "reviews": 51,
     "owner": {
       "name": "Sneha Kulkarni",
@@ -5302,7 +5223,6 @@ const PROPERTIES = [
       "lift"
     ],
     "photos": [],
-    "rating": 4.8,
     "reviews": 209,
     "owner": {
       "name": "Rajesh Patel",
@@ -5368,7 +5288,6 @@ const PROPERTIES = [
       "clubhouse"
     ],
     "photos": [],
-    "rating": 3.9,
     "reviews": 219,
     "owner": {
       "name": "Sneha Kulkarni",
@@ -5437,7 +5356,6 @@ const PROPERTIES = [
       "garden"
     ],
     "photos": [],
-    "rating": 3.7,
     "reviews": 135,
     "owner": {
       "name": "Rajesh Patel",
@@ -5504,7 +5422,6 @@ const PROPERTIES = [
       "power backup"
     ],
     "photos": [],
-    "rating": 4.9,
     "reviews": 68,
     "owner": {
       "name": "Kavita Joshi",
@@ -5572,7 +5489,6 @@ const PROPERTIES = [
       "parking"
     ],
     "photos": [],
-    "rating": 4.5,
     "reviews": 214,
     "owner": {
       "name": "Priya Singh",
@@ -5640,7 +5556,6 @@ const PROPERTIES = [
       "parking"
     ],
     "photos": [],
-    "rating": 3.8,
     "reviews": 198,
     "owner": {
       "name": "Sneha Kulkarni",
@@ -5706,7 +5621,6 @@ const PROPERTIES = [
       "lift"
     ],
     "photos": [],
-    "rating": 4.9,
     "reviews": 164,
     "owner": {
       "name": "Priya Singh",
@@ -5774,7 +5688,6 @@ const PROPERTIES = [
       "security"
     ],
     "photos": [],
-    "rating": 4.5,
     "reviews": 146,
     "owner": {
       "name": "Rajesh Patel",
@@ -5842,7 +5755,6 @@ const PROPERTIES = [
       "security"
     ],
     "photos": [],
-    "rating": 4.7,
     "reviews": 100,
     "owner": {
       "name": "Amit Sharma",
@@ -5908,7 +5820,6 @@ const PROPERTIES = [
       "parking"
     ],
     "photos": [],
-    "rating": 4.6,
     "reviews": 129,
     "owner": {
       "name": "Rajesh Patel",
@@ -5976,7 +5887,6 @@ const PROPERTIES = [
       "play area"
     ],
     "photos": [],
-    "rating": 4.1,
     "reviews": 211,
     "owner": {
       "name": "Sneha Kulkarni",
@@ -6044,7 +5954,6 @@ const PROPERTIES = [
       "gym"
     ],
     "photos": [],
-    "rating": 4.3,
     "reviews": 217,
     "owner": {
       "name": "Vikram Reddy",
@@ -6109,7 +6018,6 @@ const PROPERTIES = [
       "play area"
     ],
     "photos": [],
-    "rating": 4,
     "reviews": 166,
     "owner": {
       "name": "Deepa Nair",
@@ -6178,7 +6086,6 @@ const PROPERTIES = [
       "gym"
     ],
     "photos": [],
-    "rating": 4.7,
     "reviews": 185,
     "owner": {
       "name": "Vikram Reddy",
@@ -6244,7 +6151,6 @@ const PROPERTIES = [
       "power backup"
     ],
     "photos": [],
-    "rating": 4.4,
     "reviews": 185,
     "owner": {
       "name": "Dinesh Khanna",
@@ -6312,7 +6218,6 @@ const PROPERTIES = [
       "power backup"
     ],
     "photos": [],
-    "rating": 4.3,
     "reviews": 111,
     "owner": {
       "name": "Manish Gupta",
@@ -6380,7 +6285,6 @@ const PROPERTIES = [
       "swimming pool"
     ],
     "photos": [],
-    "rating": 4.9,
     "reviews": 125,
     "owner": {
       "name": "Sanjay Mehta",
@@ -6447,7 +6351,6 @@ const PROPERTIES = [
       "garden"
     ],
     "photos": [],
-    "rating": 5,
     "reviews": 214,
     "owner": {
       "name": "Sneha Kulkarni",
@@ -6516,7 +6419,6 @@ const PROPERTIES = [
       "play area"
     ],
     "photos": [],
-    "rating": 4.7,
     "reviews": 159,
     "owner": {
       "name": "Ritu Sharma",
@@ -6582,7 +6484,6 @@ const PROPERTIES = [
       "clubhouse"
     ],
     "photos": [],
-    "rating": 4.9,
     "reviews": 26,
     "owner": {
       "name": "Kavita Joshi",
@@ -6649,7 +6550,6 @@ const PROPERTIES = [
       "parking"
     ],
     "photos": [],
-    "rating": 4.9,
     "reviews": 82,
     "owner": {
       "name": "Sneha Kulkarni",
@@ -6718,7 +6618,6 @@ const PROPERTIES = [
       "swimming pool"
     ],
     "photos": [],
-    "rating": 3.7,
     "reviews": 176,
     "owner": {
       "name": "Amit Sharma",
@@ -6786,7 +6685,6 @@ const PROPERTIES = [
       "lift"
     ],
     "photos": [],
-    "rating": 4,
     "reviews": 30,
     "owner": {
       "name": "Deepa Nair",
@@ -6855,7 +6753,6 @@ const PROPERTIES = [
       "gym"
     ],
     "photos": [],
-    "rating": 4.1,
     "reviews": 155,
     "owner": {
       "name": "Rajesh Patel",
@@ -6920,7 +6817,6 @@ const PROPERTIES = [
       "garden"
     ],
     "photos": [],
-    "rating": 4.2,
     "reviews": 52,
     "owner": {
       "name": "Kavita Joshi",
@@ -6988,7 +6884,6 @@ const PROPERTIES = [
       "gym"
     ],
     "photos": [],
-    "rating": 5,
     "reviews": 67,
     "owner": {
       "name": "Ritu Sharma",
@@ -7056,7 +6951,6 @@ const PROPERTIES = [
       "security"
     ],
     "photos": [],
-    "rating": 4.8,
     "reviews": 198,
     "owner": {
       "name": "Kavita Joshi",
@@ -7123,7 +7017,6 @@ const PROPERTIES = [
       "gym"
     ],
     "photos": [],
-    "rating": 4.7,
     "reviews": 83,
     "owner": {
       "name": "Ritu Sharma",
@@ -7192,7 +7085,6 @@ const PROPERTIES = [
       "security"
     ],
     "photos": [],
-    "rating": 3.7,
     "reviews": 47,
     "owner": {
       "name": "Ritu Sharma",
@@ -7259,7 +7151,6 @@ const PROPERTIES = [
       "gym"
     ],
     "photos": [],
-    "rating": 4.8,
     "reviews": 163,
     "owner": {
       "name": "Dinesh Khanna",
@@ -7324,7 +7215,6 @@ const PROPERTIES = [
       "clubhouse"
     ],
     "photos": [],
-    "rating": 5,
     "reviews": 161,
     "owner": {
       "name": "Deepa Nair",
@@ -7389,7 +7279,6 @@ const PROPERTIES = [
       "security"
     ],
     "photos": [],
-    "rating": 4.5,
     "reviews": 170,
     "owner": {
       "name": "Rajesh Patel",
@@ -7454,7 +7343,6 @@ const PROPERTIES = [
       "play area"
     ],
     "photos": [],
-    "rating": 4.2,
     "reviews": 64,
     "owner": {
       "name": "Kavita Joshi",
@@ -7523,7 +7411,6 @@ const PROPERTIES = [
       "garden"
     ],
     "photos": [],
-    "rating": 4.9,
     "reviews": 129,
     "owner": {
       "name": "Kavita Joshi",
@@ -7590,7 +7477,6 @@ const PROPERTIES = [
       "lift"
     ],
     "photos": [],
-    "rating": 4,
     "reviews": 88,
     "owner": {
       "name": "Neha Verma",
@@ -7657,7 +7543,6 @@ const PROPERTIES = [
       "gym"
     ],
     "photos": [],
-    "rating": 4.7,
     "reviews": 86,
     "owner": {
       "name": "Vikram Reddy",
@@ -7725,7 +7610,6 @@ const PROPERTIES = [
       "play area"
     ],
     "photos": [],
-    "rating": 3.8,
     "reviews": 201,
     "owner": {
       "name": "Neha Verma",
@@ -7790,7 +7674,6 @@ const PROPERTIES = [
       "power backup"
     ],
     "photos": [],
-    "rating": 4.3,
     "reviews": 186,
     "owner": {
       "name": "Vikram Reddy",
@@ -7856,7 +7739,6 @@ const PROPERTIES = [
       "clubhouse"
     ],
     "photos": [],
-    "rating": 4.9,
     "reviews": 34,
     "owner": {
       "name": "Deepa Nair",
@@ -7922,7 +7804,6 @@ const PROPERTIES = [
       "security"
     ],
     "photos": [],
-    "rating": 4.9,
     "reviews": 86,
     "owner": {
       "name": "Rajesh Patel",
@@ -7991,7 +7872,6 @@ const PROPERTIES = [
       "gym"
     ],
     "photos": [],
-    "rating": 4.7,
     "reviews": 96,
     "owner": {
       "name": "Neha Verma",
@@ -8058,7 +7938,6 @@ const PROPERTIES = [
       "garden"
     ],
     "photos": [],
-    "rating": 4.8,
     "reviews": 143,
     "owner": {
       "name": "Deepa Nair",
@@ -8123,7 +8002,6 @@ const PROPERTIES = [
       "power backup"
     ],
     "photos": [],
-    "rating": 4.7,
     "reviews": 96,
     "owner": {
       "name": "Sneha Kulkarni",
@@ -8189,7 +8067,6 @@ const PROPERTIES = [
       "security"
     ],
     "photos": [],
-    "rating": 4.2,
     "reviews": 140,
     "owner": {
       "name": "Neha Verma",
@@ -8255,7 +8132,6 @@ const PROPERTIES = [
       "clubhouse"
     ],
     "photos": [],
-    "rating": 5,
     "reviews": 107,
     "owner": {
       "name": "Sanjay Mehta",
@@ -8320,7 +8196,6 @@ const PROPERTIES = [
       "security"
     ],
     "photos": [],
-    "rating": 4.1,
     "reviews": 156,
     "owner": {
       "name": "Ritu Sharma",
@@ -8387,7 +8262,6 @@ const PROPERTIES = [
       "play area"
     ],
     "photos": [],
-    "rating": 4.4,
     "reviews": 35,
     "owner": {
       "name": "Sneha Kulkarni",
@@ -8452,7 +8326,6 @@ const PROPERTIES = [
       "security"
     ],
     "photos": [],
-    "rating": 4,
     "reviews": 17,
     "owner": {
       "name": "Deepa Nair",
@@ -8517,7 +8390,6 @@ const PROPERTIES = [
       "swimming pool"
     ],
     "photos": [],
-    "rating": 3.6,
     "reviews": 116,
     "owner": {
       "name": "Priya Singh",
@@ -8585,7 +8457,6 @@ const PROPERTIES = [
       "security"
     ],
     "photos": [],
-    "rating": 5,
     "reviews": 112,
     "owner": {
       "name": "Priya Singh",
@@ -8654,7 +8525,6 @@ const PROPERTIES = [
       "play area"
     ],
     "photos": [],
-    "rating": 3.8,
     "reviews": 60,
     "owner": {
       "name": "Sanjay Mehta",
@@ -8719,7 +8589,6 @@ const PROPERTIES = [
       "swimming pool"
     ],
     "photos": [],
-    "rating": 4.5,
     "reviews": 24,
     "owner": {
       "name": "Sanjay Mehta",
@@ -8785,7 +8654,6 @@ const PROPERTIES = [
       "gym"
     ],
     "photos": [],
-    "rating": 4,
     "reviews": 165,
     "owner": {
       "name": "Manish Gupta",
@@ -8852,7 +8720,6 @@ const PROPERTIES = [
       "play area"
     ],
     "photos": [],
-    "rating": 4.4,
     "reviews": 24,
     "owner": {
       "name": "Deepa Nair",
@@ -8920,7 +8787,6 @@ const PROPERTIES = [
       "power backup"
     ],
     "photos": [],
-    "rating": 3.8,
     "reviews": 130,
     "owner": {
       "name": "Neha Verma",
@@ -8987,7 +8853,6 @@ const PROPERTIES = [
       "clubhouse"
     ],
     "photos": [],
-    "rating": 4.3,
     "reviews": 60,
     "owner": {
       "name": "Vikram Reddy",
@@ -9056,7 +8921,6 @@ const PROPERTIES = [
       "play area"
     ],
     "photos": [],
-    "rating": 4.9,
     "reviews": 201,
     "owner": {
       "name": "Amit Sharma",
@@ -9123,7 +8987,6 @@ const PROPERTIES = [
       "clubhouse"
     ],
     "photos": [],
-    "rating": 4,
     "reviews": 104,
     "owner": {
       "name": "Deepa Nair",
@@ -9190,7 +9053,6 @@ const PROPERTIES = [
       "play area"
     ],
     "photos": [],
-    "rating": 4,
     "reviews": 161,
     "owner": {
       "name": "Rajesh Patel",
@@ -9256,7 +9118,6 @@ const PROPERTIES = [
       "play area"
     ],
     "photos": [],
-    "rating": 4.8,
     "reviews": 197,
     "owner": {
       "name": "Neha Verma",
@@ -9325,7 +9186,6 @@ const PROPERTIES = [
       "play area"
     ],
     "photos": [],
-    "rating": 4.7,
     "reviews": 117,
     "owner": {
       "name": "Deepa Nair",
@@ -9390,7 +9250,6 @@ const PROPERTIES = [
       "security"
     ],
     "photos": [],
-    "rating": 3.6,
     "reviews": 148,
     "owner": {
       "name": "Deepa Nair",
@@ -9455,7 +9314,6 @@ const PROPERTIES = [
       "power backup"
     ],
     "photos": [],
-    "rating": 4.9,
     "reviews": 146,
     "owner": {
       "name": "Rajesh Patel",
@@ -9520,7 +9378,6 @@ const PROPERTIES = [
       "power backup"
     ],
     "photos": [],
-    "rating": 3.9,
     "reviews": 190,
     "owner": {
       "name": "Sanjay Mehta",
@@ -9588,7 +9445,6 @@ const PROPERTIES = [
       "play area"
     ],
     "photos": [],
-    "rating": 3.8,
     "reviews": 139,
     "owner": {
       "name": "Amit Sharma",
@@ -9657,7 +9513,6 @@ const PROPERTIES = [
       "parking"
     ],
     "photos": [],
-    "rating": 4.5,
     "reviews": 57,
     "owner": {
       "name": "Ritu Sharma",
@@ -9723,7 +9578,6 @@ const PROPERTIES = [
       "power backup"
     ],
     "photos": [],
-    "rating": 4.1,
     "reviews": 205,
     "owner": {
       "name": "Deepa Nair",
@@ -9791,7 +9645,6 @@ const PROPERTIES = [
       "power backup"
     ],
     "photos": [],
-    "rating": 5,
     "reviews": 95,
     "owner": {
       "name": "Dinesh Khanna",
@@ -9857,7 +9710,6 @@ const PROPERTIES = [
       "lift"
     ],
     "photos": [],
-    "rating": 4.7,
     "reviews": 194,
     "owner": {
       "name": "Dinesh Khanna",
@@ -9925,7 +9777,6 @@ const PROPERTIES = [
       "power backup"
     ],
     "photos": [],
-    "rating": 4.1,
     "reviews": 81,
     "owner": {
       "name": "Neha Verma",
@@ -9993,7 +9844,6 @@ const PROPERTIES = [
       "garden"
     ],
     "photos": [],
-    "rating": 4.4,
     "reviews": 95,
     "owner": {
       "name": "Priya Singh",
@@ -10062,7 +9912,6 @@ const PROPERTIES = [
       "clubhouse"
     ],
     "photos": [],
-    "rating": 4.3,
     "reviews": 28,
     "owner": {
       "name": "Neha Verma",
@@ -10128,7 +9977,6 @@ const PROPERTIES = [
       "clubhouse"
     ],
     "photos": [],
-    "rating": 4,
     "reviews": 113,
     "owner": {
       "name": "Priya Singh",
@@ -10197,7 +10045,6 @@ const PROPERTIES = [
       "lift"
     ],
     "photos": [],
-    "rating": 3.8,
     "reviews": 113,
     "owner": {
       "name": "Sanjay Mehta",
@@ -10265,7 +10112,6 @@ const PROPERTIES = [
       "power backup"
     ],
     "photos": [],
-    "rating": 4.7,
     "reviews": 18,
     "owner": {
       "name": "Rajesh Patel",
@@ -10333,7 +10179,6 @@ const PROPERTIES = [
       "play area"
     ],
     "photos": [],
-    "rating": 4.2,
     "reviews": 108,
     "owner": {
       "name": "Rajesh Patel",
@@ -10401,7 +10246,6 @@ const PROPERTIES = [
       "garden"
     ],
     "photos": [],
-    "rating": 4.9,
     "reviews": 39,
     "owner": {
       "name": "Dinesh Khanna",
@@ -10469,7 +10313,6 @@ const PROPERTIES = [
       "wifi"
     ],
     "photos": [],
-    "rating": 4.3,
     "reviews": 144,
     "owner": {
       "name": "Neha Verma",
@@ -10538,7 +10381,6 @@ const PROPERTIES = [
       "power backup"
     ],
     "photos": [],
-    "rating": 4.9,
     "reviews": 33,
     "owner": {
       "name": "Neha Verma",
@@ -10605,7 +10447,6 @@ const PROPERTIES = [
       "play area"
     ],
     "photos": [],
-    "rating": 4,
     "reviews": 88,
     "owner": {
       "name": "Manish Gupta",
@@ -10671,7 +10512,6 @@ const PROPERTIES = [
       "clubhouse"
     ],
     "photos": [],
-    "rating": 4.2,
     "reviews": 130,
     "owner": {
       "name": "Vikram Reddy",
@@ -10736,7 +10576,6 @@ const PROPERTIES = [
       "gym"
     ],
     "photos": [],
-    "rating": 4.2,
     "reviews": 13,
     "owner": {
       "name": "Sanjay Mehta",
@@ -10802,7 +10641,6 @@ const PROPERTIES = [
       "gym"
     ],
     "photos": [],
-    "rating": 4,
     "reviews": 137,
     "owner": {
       "name": "Sanjay Mehta",
@@ -10869,7 +10707,6 @@ const PROPERTIES = [
       "clubhouse"
     ],
     "photos": [],
-    "rating": 4.5,
     "reviews": 92,
     "owner": {
       "name": "Dinesh Khanna",
@@ -10937,7 +10774,6 @@ const PROPERTIES = [
       "lift"
     ],
     "photos": [],
-    "rating": 4.4,
     "reviews": 177,
     "owner": {
       "name": "Sanjay Mehta",
@@ -11006,7 +10842,6 @@ const PROPERTIES = [
       "wifi"
     ],
     "photos": [],
-    "rating": 4.3,
     "reviews": 138,
     "owner": {
       "name": "Kavita Joshi",
@@ -11072,7 +10907,6 @@ const PROPERTIES = [
       "clubhouse"
     ],
     "photos": [],
-    "rating": 4,
     "reviews": 211,
     "owner": {
       "name": "Sneha Kulkarni",
@@ -11139,7 +10973,6 @@ const PROPERTIES = [
       "power backup"
     ],
     "photos": [],
-    "rating": 4.4,
     "reviews": 120,
     "owner": {
       "name": "Manish Gupta",
@@ -11207,7 +11040,6 @@ const PROPERTIES = [
       "play area"
     ],
     "photos": [],
-    "rating": 4.1,
     "reviews": 193,
     "owner": {
       "name": "Dinesh Khanna",
@@ -11276,7 +11108,6 @@ const PROPERTIES = [
       "lift"
     ],
     "photos": [],
-    "rating": 4,
     "reviews": 158,
     "owner": {
       "name": "Vikram Reddy",
@@ -11342,7 +11173,6 @@ const PROPERTIES = [
       "clubhouse"
     ],
     "photos": [],
-    "rating": 4.8,
     "reviews": 206,
     "owner": {
       "name": "Manish Gupta",
@@ -11410,7 +11240,6 @@ const PROPERTIES = [
       "garden"
     ],
     "photos": [],
-    "rating": 4.6,
     "reviews": 106,
     "owner": {
       "name": "Manish Gupta",
@@ -11477,7 +11306,6 @@ const PROPERTIES = [
       "clubhouse"
     ],
     "photos": [],
-    "rating": 3.9,
     "reviews": 80,
     "owner": {
       "name": "Kavita Joshi",
@@ -11544,7 +11372,6 @@ const PROPERTIES = [
       "play area"
     ],
     "photos": [],
-    "rating": 3.8,
     "reviews": 52,
     "owner": {
       "name": "Sanjay Mehta",
@@ -11610,7 +11437,6 @@ const PROPERTIES = [
       "play area"
     ],
     "photos": [],
-    "rating": 4.1,
     "reviews": 178,
     "owner": {
       "name": "Neha Verma",
@@ -11675,7 +11501,6 @@ const PROPERTIES = [
       "swimming pool"
     ],
     "photos": [],
-    "rating": 3.7,
     "reviews": 163,
     "owner": {
       "name": "Sneha Kulkarni",
@@ -11743,7 +11568,6 @@ const PROPERTIES = [
       "gym"
     ],
     "photos": [],
-    "rating": 4.7,
     "reviews": 38,
     "owner": {
       "name": "Priya Singh",
@@ -11808,7 +11632,6 @@ const PROPERTIES = [
       "swimming pool"
     ],
     "photos": [],
-    "rating": 3.8,
     "reviews": 101,
     "owner": {
       "name": "Dinesh Khanna",
@@ -11873,7 +11696,6 @@ const PROPERTIES = [
       "parking"
     ],
     "photos": [],
-    "rating": 4.6,
     "reviews": 101,
     "owner": {
       "name": "Priya Singh",
@@ -11942,7 +11764,6 @@ const PROPERTIES = [
       "parking"
     ],
     "photos": [],
-    "rating": 4.4,
     "reviews": 60,
     "owner": {
       "name": "Sneha Kulkarni",
@@ -12010,7 +11831,6 @@ const PROPERTIES = [
       "power backup"
     ],
     "photos": [],
-    "rating": 4.8,
     "reviews": 157,
     "owner": {
       "name": "Rajesh Patel",
@@ -12075,7 +11895,6 @@ const PROPERTIES = [
       "gym"
     ],
     "photos": [],
-    "rating": 4.9,
     "reviews": 113,
     "owner": {
       "name": "Amit Sharma",
@@ -12144,7 +11963,6 @@ const PROPERTIES = [
       "power backup"
     ],
     "photos": [],
-    "rating": 5,
     "reviews": 51,
     "owner": {
       "name": "Ritu Sharma",
@@ -12211,7 +12029,6 @@ const PROPERTIES = [
       "lift"
     ],
     "photos": [],
-    "rating": 3.8,
     "reviews": 168,
     "owner": {
       "name": "Priya Singh",
@@ -12276,7 +12093,6 @@ const PROPERTIES = [
       "security"
     ],
     "photos": [],
-    "rating": 4.3,
     "reviews": 196,
     "owner": {
       "name": "Vikram Reddy",
@@ -12343,7 +12159,6 @@ const PROPERTIES = [
       "parking"
     ],
     "photos": [],
-    "rating": 4.5,
     "reviews": 139,
     "owner": {
       "name": "Manish Gupta",
@@ -12410,7 +12225,6 @@ const PROPERTIES = [
       "play area"
     ],
     "photos": [],
-    "rating": 3.7,
     "reviews": 15,
     "owner": {
       "name": "Ritu Sharma",
@@ -12479,7 +12293,6 @@ const PROPERTIES = [
       "parking"
     ],
     "photos": [],
-    "rating": 3.7,
     "reviews": 107,
     "owner": {
       "name": "Neha Verma",
@@ -12544,7 +12357,6 @@ const PROPERTIES = [
       "garden"
     ],
     "photos": [],
-    "rating": 3.7,
     "reviews": 128,
     "owner": {
       "name": "Neha Verma",
@@ -12612,7 +12424,6 @@ const PROPERTIES = [
       "garden"
     ],
     "photos": [],
-    "rating": 3.6,
     "reviews": 116,
     "owner": {
       "name": "Sneha Kulkarni",
@@ -12680,7 +12491,6 @@ const PROPERTIES = [
       "wifi"
     ],
     "photos": [],
-    "rating": 4.9,
     "reviews": 48,
     "owner": {
       "name": "Kavita Joshi",
@@ -12748,7 +12558,6 @@ const PROPERTIES = [
       "gym"
     ],
     "photos": [],
-    "rating": 4.4,
     "reviews": 123,
     "owner": {
       "name": "Priya Singh",
@@ -12815,7 +12624,6 @@ const PROPERTIES = [
       "lift"
     ],
     "photos": [],
-    "rating": 3.8,
     "reviews": 209,
     "owner": {
       "name": "Priya Singh",
@@ -12880,7 +12688,6 @@ const PROPERTIES = [
       "play area"
     ],
     "photos": [],
-    "rating": 4,
     "reviews": 79,
     "owner": {
       "name": "Sneha Kulkarni",
@@ -12947,7 +12754,6 @@ const PROPERTIES = [
       "clubhouse"
     ],
     "photos": [],
-    "rating": 3.7,
     "reviews": 88,
     "owner": {
       "name": "Kavita Joshi",
@@ -13012,7 +12818,6 @@ const PROPERTIES = [
       "lift"
     ],
     "photos": [],
-    "rating": 3.6,
     "reviews": 211,
     "owner": {
       "name": "Rajesh Patel",
@@ -13081,7 +12886,6 @@ const PROPERTIES = [
       "security"
     ],
     "photos": [],
-    "rating": 4.7,
     "reviews": 35,
     "owner": {
       "name": "Deepa Nair",
@@ -13149,7 +12953,6 @@ const PROPERTIES = [
       "gym"
     ],
     "photos": [],
-    "rating": 3.9,
     "reviews": 59,
     "owner": {
       "name": "Rajesh Patel",
@@ -13216,7 +13019,6 @@ const PROPERTIES = [
       "swimming pool"
     ],
     "photos": [],
-    "rating": 4.1,
     "reviews": 119,
     "owner": {
       "name": "Priya Singh",
@@ -13285,7 +13087,6 @@ const PROPERTIES = [
       "lift"
     ],
     "photos": [],
-    "rating": 4.4,
     "reviews": 19,
     "owner": {
       "name": "Amit Sharma",
@@ -13351,7 +13152,6 @@ const PROPERTIES = [
       "swimming pool"
     ],
     "photos": [],
-    "rating": 4.8,
     "reviews": 216,
     "owner": {
       "name": "Sneha Kulkarni",

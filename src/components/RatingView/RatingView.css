@@ -1,0 +1,41 @@
+.rating-view-container {
+    display: flex;
+    align-items: center;
+    gap: 3px;
+    width: fit-content;
+}
+
+.star-wrapper {
+    position: relative;
+    display: inline-block;
+    flex: 0 0 1.25em;
+    width: 1.25em;
+    height: 1.25em;
+    overflow: hidden;
+}
+
+.star {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: Arial, sans-serif;
+    font-size: 1.35rem;
+    line-height: 1.25em;
+    white-space: nowrap;
+}
+
+.star-empty {
+    color: #cbd5e1;
+}
+
+.star-filled {
+    color: #f5a623;
+    overflow: hidden;
+}
+
+.rating-value {
+    margin-left: 5px;
+    color: #334155;
+    font-size: 0.9rem;
+    font-weight: 600;
+}

@@ -24,13 +24,6 @@
     font-weight: bold;
     margin: 10px 0;
 }
-.rating-info {
-    position: absolute;
-    top: 10px;
-    right: 10px;
-    padding: 5px 10px;
-    border-radius: 5px;
-}
 .property-info {
     display: flex;
     align-items: center;

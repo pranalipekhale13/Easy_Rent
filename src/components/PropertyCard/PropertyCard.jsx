@@ -1,4 +1,3 @@
-import React from 'react'
 import './PropertyCard.css'
 import DummyImage from "./house.png"
 import {LandPlot , Building2,HandCoins} from "lucide-react"
@@ -15,16 +14,13 @@ function Propertyinfo({ icon, label }) {
 }
 
 
-function PropertyCard({ id, title, description, area, city, propertyType, size, rent , rating }) {
+function PropertyCard({ id, title, propertyType, size, rent }) {
   let navigate = useNavigate();
   
   return (
     <div className="property-card">
         <img src={DummyImage} alt="Property" className="property-image" />
         <h2 className="property-title">{title}</h2>
-         <p className="rating-info">{rating}</p>
-       
-
         <Propertyinfo icon= {<Building2 />} label= {propertyType} />
         <Propertyinfo icon= {<LandPlot />} label= {size}/>
         <Propertyinfo icon= {<HandCoins />} label= {`₹${rent} / month`} />
